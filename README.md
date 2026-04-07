@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:00FF99&height=220&section=header&text=Outmane%20Yasyn&fontSize=44&fontColor=E2E8F0&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20•%20Open%20to%20Opportunities%20•%20Morocco%20🇲🇦&descSize=16&descAlignY=55&descAlign=50" alt="Header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,70:161B22,100:00FF99&height=220&section=header&text=Outmane%20Yasyn&fontSize=44&fontColor=FFFFFF&animation=fadeIn&fontAlignY=32&desc=Full-Stack%20Developer%20•%20Open%20to%20Opportunities%20•%20Morocco%20🇲🇦&descSize=16&descAlignY=48&descAlign=50" alt="Header" />
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF99&center=true&vCenter=true&repeat=true&width=600&lines=🚀+Full-Stack+Web+Developer;⚙️+React+%7C+Laravel+%7C+Next.js;⚡+Building+Scalable+Solutions;🎯+Clean+Code+%7C+High+Performance;🌍+Open+for+Opportunities" alt="Typing SVG" />
@@ -84,8 +84,19 @@
 
 ### ` 🔧 DevOps & Tools `
 <a href="https://skillicons.dev" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,aws,wordpress&theme=dark" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,github,vscode,aws,postman,wordpress&theme=dark" alt="Tools" />
 </a>
+
+<br/><br/>
+
+### ` 📋 Workflow & Methodology `
+<img src="https://img.shields.io/badge/Agile-0D1117?style=for-the-badge" alt="Agile" />
+&nbsp;
+<img src="https://img.shields.io/badge/Scrum-161B22?style=for-the-badge" alt="Scrum" />
+&nbsp;
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
+&nbsp;
+<img src="https://img.shields.io/badge/REST_API-006B3F?style=for-the-badge" alt="REST API" />
 
 </div>
 
@@ -95,25 +106,25 @@
 
 ## 🚀 𝗪𝗵𝗮𝘁 𝗜 𝗕𝗿𝗶𝗻𝗴 𝘁𝗼 𝘁𝗵𝗲 𝗧𝗮𝗯𝗹𝗲
 
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/—_01_—-0D1117?style=for-the-badge" alt="01"/><br/><br/>
-      <h3>🌐 Frontend Development</h3>
-      <p><em>Pixel-perfect, responsive, and blazing-fast user interfaces built with <b>React & Next.js</b> that deliver exceptional user experiences.</em></p>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/—_02_—-161B22?style=for-the-badge" alt="02"/><br/><br/>
-      <h3>⚙️ Backend Engineering</h3>
-      <p><em>Secure, scalable RESTful APIs and robust server-side architecture with <b>Laravel & Node.js</b> powering your business logic.</em></p>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/—_03_—-006B3F?style=for-the-badge" alt="03"/><br/><br/>
-      <h3>🔥 Full-Stack Solutions</h3>
-      <p><em>End-to-end product development — from concept to deployment — with <b>clean architecture</b> and production-grade quality.</em></p>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+**🌐 Frontend Development**
+<br/>
+<sub>Pixel-perfect, responsive, and blazing-fast user interfaces built with <b>React & Next.js</b> that deliver exceptional user experiences.</sub>
+
+---
+
+**⚙️ Backend Engineering**
+<br/>
+<sub>Secure, scalable RESTful APIs and robust server-side architecture with <b>Laravel & Node.js</b> powering your business logic.</sub>
+
+---
+
+**🔥 Full-Stack Solutions**
+<br/>
+<sub>End-to-end product development — from concept to deployment — with <b>clean architecture</b> and production-grade quality.</sub>
+
+</div>
 
 <br/>
 
