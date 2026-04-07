@@ -31,7 +31,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Outhman444.Outhman444&left_color=0D1117&right_color=00FF99&left_text=Visitors" alt="visitors" />
+  <img src="https://komarev.com/ghpvc/?username=Outhman444&style=for-the-badge&color=00FF99&labelColor=0D1117&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
 
 <br/>
