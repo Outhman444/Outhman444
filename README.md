@@ -1,14 +1,14 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:00FF99&height=220&section=header&text=Outmane%20Yasyn&fontSize=44&fontColor=E2E8F0&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20•%20Freelancer%20•%20Morocco%20🇲🇦&descSize=16&descAlignY=55&descAlign=50" alt="Header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:00FF99&height=220&section=header&text=Outmane%20Yasyn&fontSize=44&fontColor=E2E8F0&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20•%20Open%20to%20Opportunities%20•%20Morocco%20🇲🇦&descSize=16&descAlignY=55&descAlign=50" alt="Header" />
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF99&center=true&vCenter=true&repeat=true&width=600&lines=🚀+Full-Stack+Web+Developer;🔧+Freelance+Software+Engineer;⚡+Building+Scalable+Solutions;🎯+Clean+Code+%7C+High+Performance;🌍+Open+for+Global+Projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF99&center=true&vCenter=true&repeat=true&width=600&lines=🚀+Full-Stack+Web+Developer;⚙️+React+%7C+Laravel+%7C+Next.js;⚡+Building+Scalable+Solutions;🎯+Clean+Code+%7C+High+Performance;🌍+Open+for+Opportunities" alt="Typing SVG" />
 </div>
 
 <br/>
 
 <div align="center">
   <a href="mailto:outmane.yasyn.dev@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/⚡_OPEN_TO_WORK_—_HIRE_ME-00FF99?style=for-the-badge&logoColor=black&labelColor=0D1117" alt="Available" />
+    <img src="https://img.shields.io/badge/🟢_OPEN_TO_WORK-00FF99?style=for-the-badge&logoColor=black&labelColor=0D1117" alt="Available" />
   </a>
 </div>
 
@@ -51,12 +51,12 @@
   &nbsp;
   <img src="https://img.shields.io/badge/🗣️_Arabic_•_French_•_English-161B22?style=flat-square" alt="Languages" />
   &nbsp;
-  <img src="https://img.shields.io/badge/💼_Freelancer-006B3F?style=flat-square" alt="Status" />
+  <img src="https://img.shields.io/badge/💼_Open_to_Opportunities-006B3F?style=flat-square" alt="Status" />
 </div>
 
 <br/>
 
-> I'm a **self-driven Full-Stack Developer** with a strong focus on building **high-performance web applications** that solve real-world problems. I work independently as a **Freelancer**, partnering with clients worldwide to deliver production-ready software — from concept to deployment.
+> I'm a **Full-Stack Developer** with a strong focus on building **high-performance web applications** that solve real-world problems. Whether working within a **team at a company** or independently with **clients worldwide**, I deliver production-ready software — from concept to deployment.
 
 - ⚡ **What I Do →** Architect clean, maintainable **frontend interfaces** and **backend systems** that prioritize speed, security, and scalability.
 - 🔭 **Currently Exploring →** Advanced **TypeScript patterns**, **AI-powered workflows**, and **cloud-native architecture** on AWS.
@@ -93,7 +93,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🚀 𝗙𝗿𝗲𝗲𝗹𝗮𝗻𝗰𝗲 𝗦𝗲𝗿𝘃𝗶𝗰𝗲𝘀
+## 🚀 𝗪𝗵𝗮𝘁 𝗜 𝗕𝗿𝗶𝗻𝗴 𝘁𝗼 𝘁𝗵𝗲 𝗧𝗮𝗯𝗹𝗲
 
 <table>
   <tr>
@@ -140,11 +140,11 @@
 
   <br/>
 
-  **💼 Need a reliable Full-Stack Developer for your next project?**
+  **💼 Looking for a dedicated Full-Stack Developer?**
   <br/>
-  I'm currently **open for freelance work** and ambitious collaborations across the globe 🌍
+  I'm **open to full-time roles, contract work, and freelance projects** across the globe 🌍
   <br/>
-  Let's turn your vision into reality.
+  Let's build something extraordinary together.
 
   <br/><br/>
 
